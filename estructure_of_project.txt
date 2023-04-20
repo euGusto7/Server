@@ -1,0 +1,31 @@
+|--features/
+|  |--steps/
+|  |  |--multiples_orders/
+|  |  |  |-- multiples_orders.py
+|  |  |--order/
+|  |  |  |-- order.py
+|  |  |--partial_invoice/
+|  |  |  |-- partial_invoice.py
+|  |  |--common_steps.py
+|  |  |
+|  |--environment.py
+|  |--multiples_orders.feature
+|  |--order.feature
+|  |--partial_invoice.feature
+|
+|
+|--support/
+|  |--configs/
+|  |  |--settings.py
+|  |  |
+|  |--__init__.py 
+|  |--add_stock.py 
+|  |--api_requests.py 
+|  |--conditions.py 
+|  |--constraints.py 
+|  |--docs.py 
+|  |--insert_order_infos.py 
+|  |--messages.py 
+|  |--sap.py 
+|  |--verify_stock.py
+|
